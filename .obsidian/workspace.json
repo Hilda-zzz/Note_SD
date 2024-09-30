@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "03f3c580b38c155f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4fe1efd7fd29995",
+        "type": "tabs",
+        "dimension": 20.408163265306122,
+        "children": [
+          {
+            "id": "b3827bcacbe72ede",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "J属性大爆发/周计划.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "84f67bb4503da773",
+        "type": "tabs",
+        "dimension": 79.59183673469387,
+        "children": [
+          {
+            "id": "854b45e981640ae1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "J属性大爆发/周计划.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c028a6f78844c33c",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb91901d389fd966",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e00bf8fb812a223",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c0010490f768209",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7306f00cf5484d46",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "6a6c5d08bcb7e5f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d515533becad2b3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20f068fe01d03039",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "J属性大爆发/周计划.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d05e4d29465d4aa7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "J属性大爆发/周计划.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "00f1da5a8759addf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "854b45e981640ae1",
+  "lastOpenFiles": [
+    "计算机基础课/学习资源.md",
+    "J属性大爆发/周计划.md",
+    "J属性大爆发",
+    "NJU_PA/ch/ch_pa-0_setup.md",
+    "NJU_PA/index.md",
+    "ch/ch_pa-4-3-games.md",
+    "NJU_PA/PIC/vm/sreenshot_temp (9th copy).png",
+    "NJU_PA/PIC/vm/sreenshot_temp (6th copy).png",
+    "NJU_PA/PIC/vm/sreenshot_temp (7th copy).png",
+    "NJU_PA/PIC/vm/sreenshot_temp (8th copy).png",
+    "NJU_PA/PIC/vm/sreenshot_temp (3rd copy).png",
+    "NJU_PA/PIC/vm/sreenshot_temp (5th copy).png",
+    "NJU_PA/PIC/vm/sreenshot_temp (30th copy).png",
+    "NJU_PA/PIC/vm/sreenshot_temp (4th copy).png",
+    "NJU_PA/PIC/vm/sreenshot_temp (2nd copy).png",
+    "NJU_PA/PIC/vm/sreenshot_temp (29th copy).png",
+    "NJU_PA/PIC/pa/list.txt",
+    "NJU_PA/PIC/vm",
+    "NJU_PA/PIC/pa",
+    "NJU_PA/PIC",
+    "NJU_PA/ch/ch_pa-4-3-games.md",
+    "NJU_PA/ch/ch_pa-4-2-device_io.md",
+    "NJU_PA/ch/ch_pa-4-1-interrupt.md",
+    "NJU_PA/ch/ch_pa-3-3_paging.md",
+    "NJU_PA/ch/ch_pa-3-2_protect_mode.md",
+    "NJU_PA/ch/ch_pa-3-1_cache.md",
+    "NJU_PA/ch/ch_pa-2-3_monitor.md",
+    "NJU_PA/ch/ch_pa-2-2_load_elf.md",
+    "NJU_PA/ch/ch_pa-2-1_instruction.md",
+    "NJU_PA/ch/ch_pa-1-3_fpu.md",
+    "NJU_PA/ch/ch_pa-1-2_alu.md",
+    "NJU_PA/ch/ch_pa-1-1_reg.md",
+    "NJU_PA/ch/ch_appendix_B_git_manual.md",
+    "NJU_PA/ch/ch_appendix_C_local_vm.md",
+    "NJU_PA/ch/ch_appendix_A_i386_correction.md",
+    "NJU_PA/ch/ch_ack.md",
+    "NJU_PA/ch",
+    "ch/ch_pa-4-1-interrupt.md",
+    "ch",
+    "Games104/Games104：现代游戏引擎——从入门到实践.md",
+    "C++基础/C++基础.md",
+    "算法笔记/算法笔记.md",
+    "SD I/SD I.md",
+    "计算机基础课",
+    "Math& Physics",
+    "SD I"
+  ]
+}
