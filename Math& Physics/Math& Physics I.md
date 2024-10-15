@@ -33,3 +33,10 @@ Euler Numerical Integration
 
 A2
 ![[Pasted image 20240910104005.png]]
+## A4
+corrective physics(bounce)
+	detect
+		detect overlap
+	response
+		push (micro teleport) out
+		exchange/ reflect momentum

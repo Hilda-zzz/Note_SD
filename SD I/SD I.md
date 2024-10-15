@@ -79,3 +79,16 @@ release version will be faster
 （可以声明很多次同一个函数，但是只能定义同一个）
 ### Definition---"the things"
 definition never used in hpp, cause it may be included more than once
+
+
+
+``` cpp
+extern int g_someGloabel;
+int g_someGLoabel=42;
+constexpr int g_someGlobal=42;
+#define g_someGlobal  42;
+enum
+{
+	//same to constexpr
+};
+```
